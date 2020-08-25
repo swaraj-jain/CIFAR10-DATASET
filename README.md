@@ -1,5 +1,5 @@
 # CIFAR10-DATASET
-<<<<<<< HEAD
+
 =======
 Explore CIFAR-10 DATASET
 
@@ -21,4 +21,4 @@ Explore CIFAR-10 DATASET
     It seems quite good model,Traning for more epoches on changing costfunction and all can increase the accuracy.
 </li>
 </ol>
->>>>>>> 2a6c2eb1e5ca478bd3edb858f7ee49e216b1f93e
+
